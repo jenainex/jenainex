@@ -1,0 +1,15 @@
+# Local-only Python scaffold created by newenv (not part of the profile)
+src/
+pyproject.toml
+uv.lock
+.python-version
+.envrc
+.venv/
+__pycache__/
+
+# Secrets
+.env
+.env.*
+
+# OS
+.DS_Store
